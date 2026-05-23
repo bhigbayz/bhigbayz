@@ -1,37 +1,84 @@
+# 👋 Hi, I'm Michael Badejo
 
-<h1>Hi, I'm Michael! <br/><a href="www.linkedin.com/in/michael-badejo-46b8b6292">Cybersecurity Professional</a></h1>
+## 🚀 Aspiring SOC Analyst | ISC2 CC Certified | Security+ Student
 
-<h2>👨‍💻 101labs Projects </h2>
+Passionate about cybersecurity, SOC operations, threat detection, Linux environments, and ethical hacking. Currently building practical experience in incident response, SIEM tools, networking, and security analysis.
 
+---
 
-<h2>📄 Certifications </h2>
+# 🛡️ Certifications
 
-<h2>👨‍💻 Tryhackme</h2>
+- ISC2 Certified in Cybersecurity (CC)
+- CompTIA Security+ (In Progress)
+- Virtual Assistant Certification
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+# ⚙️ Technical Skills
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Cybersecurity
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+- Incident Response
+- Threat Detection
+- SIEM Basics
+- Network Security
+- Risk Management
+- Access Control
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools & Platforms
 
-Here are some ideas to get you started:
+- Kali Linux
+- Wireshark
+- Nmap
+- Splunk
+- Git & GitHub
+- Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Networking
+
+- TCP/IP
+- DNS
+- VLANs
+- VPNs
+- Routing Fundamentals
+
+---
+
+# 🧪 Labs & Projects
+
+## SOC Analyst Labs
+
+Hands-on practice involving phishing analysis, log review, brute force detection, and incident response workflows.
+
+## Network Scanning & Enumeration
+
+Performed network discovery and vulnerability assessment using Nmap in controlled environments.
+
+## Linux Practice Environment
+
+Worked with Kali Linux to practice commands, permissions, networking, and cybersecurity tools.
+
+---
+
+# 🌐 Portfolio & Profiles
+
+- Portfolio Website: [cyber-portfolio-iota.vercel.app](https://cyber-portfolio-iota.vercel.app/)
+- LinkedIn: [linkedin.com/in/michael-badejo-46b8b6292](https://linkedin.com/in/michael-badejo-46b8b6292)
+- TryHackMe: [tryhackme.com/p/badejom2](https://tryhackme.com/p/badejom2)
+
+---
+
+# 📈 Currently Learning
+
+- Security Operations Center (SOC)
+- SIEM & Log Analysis
+- Threat Hunting
+- Active Directory Fundamentals
+- Python for Cybersecurity
+
+---
+
+# 📫 Contact
+
+- Email: badejom2@gmail.com
+- Location: Lagos, Nigeria
